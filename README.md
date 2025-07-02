@@ -5,10 +5,9 @@ Tech stack used: Node.js Express, JSON Web Token (JWT), uuid, dotenv and fs (Fil
 Features : User Authentication (/register and /login) with JWT ,Book Management (CRUD), Only authenticated users can manage books, Only the user who added a book can update or delete it, Search by Genre and Pagination, Data stored in JSON files (books.json and users.json), Middleware for logging and authentication and Error handling for clean API responses
 
 
-🔧 Setup Instructions
+Setup Instructions
 1️) Clone the Repository: 
-    git clone https://github.com/your-username/bookstore-api.git
-    cd bookstore-api
+    git clone https://github.com/SAIDATTUPUJARI/Bookstore-REST-API-with-File-Based
 
 2️) Install Dependencies:
   npm install
